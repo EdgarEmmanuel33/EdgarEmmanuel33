@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hola 👋 Soy Edgar Emmanuel 
 
 <!--
 **EdgarEmmanuel33/EdgarEmmanuel33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Sobre mi 
+Soy estudiante de **Informática** en CONALEP Tijuana 2. 
+Me gusta la resolución de problemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente estoy aprendiendo sobre:
+**crear una cuenta de Github**.
+
+- 🌱 Mis próximos objetivos son aprender sobre 
+el: **Desarrollo de software**.
+
+- 💬 Preguntame sobre: **Redes y macros de Excel**.
+
+## Habilidades Técnicas
+- **Lenguajes: ** Python, Java, HTML.
+- **Herramientas:** Excel Medio, LaTex.
+**Sistemas Operativos: ** Windows, (básico).
+
+## Cómo contactarme
+- **Correo:** emmanuelsanchez2315@gmail.com
